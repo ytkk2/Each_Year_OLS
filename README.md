@@ -28,3 +28,8 @@ To run this analysis, follow these steps:
     ```bash
     docker run -it -v $(pwd):/app each_year_ols
     ```
+
+## Important Notes
+
+- Ensure that Docker is installed on your system and is running before executing these commands.
+- The analysis is interactive and requires user input to proceed.
