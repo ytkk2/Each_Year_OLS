@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project conducts a simple regression analysis using Densely Inhabited District (DID) population density as the explanatory variable and Relative Total Factor Productivity (TFP) as the dependent variable. The analysis focuses on four specific years, providing a detailed view of the relationship between DID population density and relative TFP.
+This project conducts a simple regression analysis using Densely Inhabited District (DID) population density as the explanatory variable and Relative Total Factor Productivity (TFP) as the dependent variable. The analysis focuses on four specific years, providing a detailed view of the relationship between DID population density and relative TFP in Japan.
 
 ## Key Features
 
