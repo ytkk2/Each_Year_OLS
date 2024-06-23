@@ -18,7 +18,7 @@ To run this analysis, follow these steps:
    First, build the Docker image for the project using the following command:
 
    ```bash
-   docker build -t each_year_ols .
+   docker build -t main .
     ```
 
 2. **Run the Docker Container**:
@@ -26,7 +26,7 @@ To run this analysis, follow these steps:
     After building the image, execute the container with this command:
 
     ```bash
-    docker run -it -v $(pwd):/app each_year_ols
+    docker run -it -v $(pwd):/app main
     ```
 
 ## Important Notes
